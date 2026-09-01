@@ -1,67 +1,96 @@
 {
   "$schema": "./profile.schema.json",
   "profile": {
-    "name": "Your Name",
-    "username": "yourusername",
-    "headline": "AI Engineer & Product Builder",
-    "affiliation": "Your University or Company",
-    "location": "City, Country",
-    "status": "Learning / Building / Shipping",
+    "name": "Gede Adhi Krishna Nugraha",
+    "username": "deadi-id04",
+    "headline": "Software Developer | AI & ML Enthusiast",
+    "affiliation": "ITB STIKOM Bali",
+    "location": "Denpasar, Indonesia",
+    "status": "Building / Learning / Exploring",
     "about": [
-      "I build practical systems at the intersection of artificial intelligence, software engineering, and products people can trust.",
-      "My work combines technical exploration with a builder mindset: understand the problem, test the system, and share what actually works."
+      "I am an Information Technology student interested in building practical software and exploring how AI and machine learning can be integrated into useful applications.",
+      "I enjoy learning through hands-on projects, experimenting with different technologies, and turning ideas into working systems."
     ]
   },
   "research": {
-    "primary": "AI Agents",
-    "direction": "Reliable autonomous systems",
-    "themes": "Tool use / evaluation / human control",
-    "narrative": "I am interested in systems that can observe state, use tools, evaluate outcomes, and take bounded actions with clear evidence and human oversight."
+    "primary": "Software & AI",
+    "direction": "Intelligent software systems",
+    "themes": "AI / Software Development / Systems",
+    "narrative": "I am focused on building practical software applications and exploring how artificial intelligence and machine learning can be effectively integrated into modern, reliable software systems."
   },
   "focus": [
     {
-      "name": "AI Agents",
-      "description": "Autonomous workflows, tool use, evaluation, and reliable agent behavior."
+      "name": "Software Development",
+      "description": "Building practical web and mobile applications with a focus on clean architecture, usability, and maintainable systems."
     },
     {
-      "name": "Applied AI",
-      "description": "Turning model capabilities into useful and testable software systems."
+      "name": "Artificial Intelligence",
+      "description": "Exploring machine learning and AI through practical experiments and application-focused projects."
     },
     {
-      "name": "Developer Tools",
-      "description": "Better workflows for building, testing, and operating modern software."
+      "name": "System Development",
+      "description": "Designing integrated applications that connect interfaces, APIs, databases, and supporting services."
     }
   ],
   "projects": [
     {
-      "name": "Project One",
-      "url": "https://github.com/yourusername/project-one",
+      "name": "DataSensor",
+      "url": "https://github.com/deadi-id04/DataSensor",
       "homepage": "",
-      "focus": "Primary project focus",
-      "summary": "A concise explanation of what the project does and why it matters.",
-      "heroLabel": "Primary build"
+      "focus": "Software project",
+      "summary": "One of my hands-on software development projects.",
+      "heroLabel": "Data Sensor System"
     },
     {
-      "name": "Project Two",
-      "url": "https://github.com/yourusername/project-two",
+      "name": "DataSiswa2",
+      "url": "https://github.com/deadi-id04/DataSiswa2",
       "homepage": "",
-      "focus": "Secondary project focus",
-      "summary": "A second project that supports the professional direction of this profile.",
-      "heroLabel": "Active system"
+      "focus": "Software project",
+      "summary": "One of my hands-on software development projects.",
+      "heroLabel": "Student System"
+    },
+    {
+      "name": "List_S3derhana",
+      "url": "https://github.com/deadi-id04/List_S3derhana",
+      "homepage": "",
+      "focus": "Software project",
+      "summary": "One of my hands-on software development projects.",
+      "heroLabel": "Utility App"
+    },
+    {
+      "name": "bc234",
+      "url": "https://github.com/deadi-id04/bc234",
+      "homepage": "",
+      "focus": "Software project",
+      "summary": "One of my hands-on software development projects.",
+      "heroLabel": "Code Experiment"
     }
   ],
   "techStack": [
-    "TypeScript",
-    "Next.js",
     "Python",
-    "PostgreSQL",
-    "Playwright"
+    "Kotlin",
+    "Java",
+    "PHP",
+    "JavaScript",
+    "TypeScript",
+    "HTML",
+    "CSS",
+    "FastAPI",
+    "Laravel",
+    "Android",
+    "Jetpack Compose",
+    "MySQL",
+    "Git",
+    "GitHub",
+    "Docker",
+    "Podman",
+    "scikit-learn"
   ],
   "links": [
     {
       "label": "GitHub",
-      "value": "yourusername",
-      "url": "https://github.com/yourusername",
+      "value": "deadi-id04",
+      "url": "https://github.com/deadi-id04",
       "logo": "github",
       "color": "0B1220"
     }
@@ -73,5 +102,5 @@
   "appearance": {
     "palette": "signal"
   },
-  "footer": "Building thoughtful systems and sharing what works."
+  "footer": "Building practical software, exploring AI, and turning ideas into working systems."
 }
