@@ -47,7 +47,7 @@ I am focused on building practical software applications and exploring how artif
 ## Recent Activity
 
 <!-- AUTO:ACTIVITY:START -->
-_Recent public activity will appear here after the workflow runs._
+- Sep 1, 2026: created a branch in [deadi-id04/deadi-id04](https://github.com/deadi-id04/deadi-id04).
 <!-- AUTO:ACTIVITY:END -->
 
 ---
